@@ -1,0 +1,28 @@
+:root {
+    // brand colors
+    --c-brand: #945ff6;
+    --c-brand-light: #7442c5;
+
+    // code background color 
+    --code-bg-color: #333333;
+
+    // border colors
+    --c-border: #D4D6D8;
+}
+
+html.dark {
+    // brand colors
+    --c-brand: #945ff6;
+    --c-brand-light: #7442c5;
+
+    // background colors
+    --c-bg: #333333;
+    --c-bg-light: #2B2B2B;
+    --c-bg-lighter: #222222;
+
+    // code background color 
+    --code-bg-color: #2B2B2B;
+
+    // border colors
+    --c-border: #5B555E;
+}
